@@ -1,3 +1,3 @@
 # Maze-Generation
 
-A basic implementation of Prim algorithm in python.
+A basic implementation of Prim's algorithm in python.
